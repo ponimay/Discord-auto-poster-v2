@@ -4,7 +4,7 @@ Automatic sending of Discord messages
 
 This program is designed to automatically send messages to Discord channels
 
-![image](https://github.com/ponimay/Discord-auto-poster/assets/80597767/1515d8cf-10f8-4ae7-9f76-bd58bdff4343)
+![image](https://github.com/ponimay/Discord-auto-poster-v2/assets/80597767/d5716ba3-4898-4ec2-b2b4-bb25e48f9628)
 
 # Instruction
 1. Open the "Setup1" folder and run the file.exe;
